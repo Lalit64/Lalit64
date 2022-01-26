@@ -55,8 +55,8 @@ I design and build websites using tools like Svelte, Supabase and Tailwind. When
 
 #### DevOps:
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=plastic&logo=github&logoColor=white)
 
 [gmail]: mailto:lalit.yalamanchili@gmail.com
 [devto]: https://dev.to/Lalit64
