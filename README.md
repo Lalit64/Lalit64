@@ -1,7 +1,7 @@
 # Hi, I'm Lalit Yalamanchili <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [<img align="left" alt="lalit.yalamanchili | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="Lalit64 | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto]
+[<img align="left" alt="Lalit64 | Dev.to" width="22px" src="./dev.svg" />][devto]
 
 <br>
 <br>
