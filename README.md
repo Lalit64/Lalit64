@@ -41,7 +41,7 @@ I've always been a person that if I didn't know how to make something      🔎 
 ### GitHub Stats
 
 ![Lalit Yalamanchili's github stats](https://github-readme-stats.vercel.app/api?username=Lalit64&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=onedark)
 
 
 ### My Stack
