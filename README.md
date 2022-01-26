@@ -38,20 +38,9 @@ I've always been a person that if I didn't know how to make something      🔎 
 - [Find a Flick](https://findaflick.vercel.app) - Find your favorite movies and Series and enjoy trailers and soundtracks in one place!
 - [Spotify Search App](https://spotify-albuns.herokuapp.com/)
 
-
-### **Latest Articles:**
-
-📝      I'm a writer for [JavaScript in Plain English](https://medium.com/javascript-in-plain-english) and [Analytics Vidhya](https://www.analyticsvidhya.com/) over on Medium!
-
-- [5 lessons I learned in my first year as a programmer](https://tassiaaccioly.medium.com/5-lessons-i-learned-in-my-first-year-as-a-programmer-403e2b64cfbe)
-- [7 Tips to make your GitHub profile better](https://tassiaaccioly.medium.com/7-tips-to-make-your-github-profile-better-3913971c357d)
-- [5 Steps to make custom language badges for your profile](https://tassiaaccioly.medium.com/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b)
-
-
-
 ### GitHub Stats
 
-![Lalit Yalamanchili's github stats](https://github-readme-stats.vercel.app/api?username=Lalit64&show_icons=true&theme=great-gatsby)
+![Lalit Yalamanchili's github stats](https://github-readme-stats.vercel.app/api?username=Lalit64&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=great-gatsby&layout=compact)
 
 
