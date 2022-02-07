@@ -9,7 +9,7 @@
 ![](https://www.codewars.com/users/Lalit64/badges/micro)
 
 
-### **I'm a programmer on beta testing!**
+### **I'm a programmer!**
 
 
 Hi, I’m
