@@ -18,8 +18,8 @@ I design and build websites using tools like Svelte, Supabase and Tailwind. When
 
 ### GitHub Stats
 
-![Lalit Yalamanchili's github stats](https://github-readme-stats.vercel.app/api?username=Lalit64&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=onedark&layout=compact)
+![Lalit Yalamanchili's github stats](https://github-readme-stats.vercel.app/api?username=Lalit64&show_icons=true&theme=default)
+![Top Langs](hhttps://github-readme-stats.vercel.app/api/top-langs/?username=tassiaaccioly&theme=default&layout=compact)
 
 
 ### My Stack
