@@ -50,7 +50,7 @@ I design and build websites using tools like Svelte, Supabase and Tailwind. When
 #### Utilities:
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=plastic&logo=insomnia&logoColor=white)
-![IntelliJ Idea Ultimate](https://img.shields.io/badge/-IntelliJ-informational?style=plastic&logo=intellijidea&logoColor=white)
+![NeoVim](https://img.shields.io/badge/-NeoVim-3E69A6?style=plastic&logo=neovim&logoColor=white)
 ![iterm2](https://img.shields.io/badge/-iterm2-informational?style=plastic&logo=iterm2&logoColor=white)
 
 #### DevOps:
